@@ -1,4 +1,4 @@
-class Kpass < Formula
+class Pass < Formula
   desc "Command-line password manager"
   homepage "https://github.com/pkge/pass"
   url "https://github.com/pkge/pass/archive/1.7.1.tar.gz"
