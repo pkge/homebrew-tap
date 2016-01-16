@@ -1,7 +1,7 @@
 class Kpass < Formula
   desc "Command-line password manager"
-  homepage "https://github.com/pkge/kpass"
-  url "https://github.com/pkge/kpass/archive/1.7.1.tar.gz"
+  homepage "https://github.com/pkge/pass"
+  url "https://github.com/pkge/pass/archive/1.7.1.tar.gz"
   sha256 "bbbfa4a94b5f3050ebf8ca8c8054d4c16ecb86ce22523dd2d33e566cc08c1404"
 
   depends_on "pwgen"
