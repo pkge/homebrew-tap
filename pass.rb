@@ -2,7 +2,7 @@ class Pass < Formula
   desc "Command-line password manager"
   homepage "https://github.com/pkge/pass"
   url "https://github.com/pkge/pass/archive/1.7.3.tar.gz"
-  sha256 "f51a992b1b88618d7063829f0dc98d88f4398b30d40c1b6d547f887a17723c39"
+  sha256 "65d9feafa0baf354cda0f50b9aeb93f59e0ad22b28ad8d7f9204895010ebbbf8"
 
   depends_on "pwgen"
   depends_on "tree"
